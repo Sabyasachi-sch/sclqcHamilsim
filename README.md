@@ -1,4 +1,4 @@
-# sclqcHamil-sim
+# sclqcHamilsim
 
 This repository contains code and datasets for generating images presented in the paper titled *Scalable quantum circuits for exponential of Pauli strings and Hamiltonian simulations*. The code is organized into multiple folders, each designed to produce specific plots.
 
